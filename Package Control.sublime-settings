@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
+		"Codecs33",
+		"ConvertToUTF8",
+		"CSS3",
+		"CSScomb",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"JavaScript & NodeJS Snippets",
+		"jQuery",
+		"JsFormat",
+		"LESS",
+		"Material Theme",
+		"Package Control",
+		"React ES6 Snippets",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
+	]
+}
