@@ -1,1 +1,1 @@
-# sublime 3 配置备份
+# sublime 3 配置文件
